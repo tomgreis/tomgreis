@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<img src="https://pbs.twimg.com/profile_images/1306281224017764352/86GzTTZM_400x400.jpg" width="300px" height="300px">
-
 **I'm Tom Greis, a communication designer from Hamburg. I design beautiful things, now also in code.**
 
 - I'm currently working on improving my coding skills.
